@@ -7,4 +7,4 @@ replicas:
 
 images:
   - name: 914567108126.dkr.ecr.us-east-1.amazonaws.com/simple-app
-    newTag: v0.0.1
+    newTag: 0.0.1
