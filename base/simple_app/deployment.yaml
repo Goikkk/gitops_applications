@@ -28,7 +28,7 @@ spec:
 
       containers:
       - name: simple-app
-        image: 914567108126.dkr.ecr.us-east-1.amazonaws.com/simple-app
+        image: 478822682668.dkr.ecr.us-east-1.amazonaws.com/simple-app
 
         ports:
         - name: http
