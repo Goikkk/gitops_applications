@@ -1,3 +1,4 @@
 kustomize:
   images:
   - 914567108126.dkr.ecr.us-east-1.amazonaws.com/simple-app:0.0.1
+  - 478822682668.dkr.ecr.us-east-1.amazonaws.com/simple-app:0.0.1
